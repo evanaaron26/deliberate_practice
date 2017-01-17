@@ -3,7 +3,8 @@ def find_string(array)
 total = []
 
 array.each do |string|
-	if string.start_with?('J')
+	if string.is_a? Integer
+
 	total << string
 	end
 end
