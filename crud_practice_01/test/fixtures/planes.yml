@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cost: MyString
+  year: MyString
+  manufacture: MyString
+
+two:
+  cost: MyString
+  year: MyString
+  manufacture: MyString

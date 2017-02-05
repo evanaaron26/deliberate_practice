@@ -1,0 +1,20 @@
+Find a new Ruby method, make it work, make it break
+
+Accessing Elements in an array 
+
+arr.at method, arr.fetch, arr.take, arr.drop, arr.first, arr.last
+
+Create a CRUD app with RESTful routes
+
+1 - create one CRUD app every day for one week
+
+2 - week 2 try not to use notes
+
+ Loop through a collection of data to perform some computation
+
+1- total a collection of hashes in an array
+2- subtract one hash from an array
+3- switch out instances of an specific array in a hash
+
+
+
